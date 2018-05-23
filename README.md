@@ -1,3 +1,3 @@
 # jstest
 Testing around with JavaScript and other cool stuff.
-Ich bin Moritz, wie geht's?
+I am Moritz, what's up?
